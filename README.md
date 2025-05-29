@@ -36,4 +36,4 @@ Interactive Visualizations (Charts, Tables, Maps, Cards)
 
 PowerBI Dashboard :
 
-Dashboard Image Url:
+Dashboard Image Url:https://github.com/khandapuakhil-5/Amazon-sales-Analytics-Dashboard/blob/main/Amazon%20Dashboard.png
