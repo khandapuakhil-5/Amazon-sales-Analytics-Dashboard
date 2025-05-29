@@ -34,6 +34,8 @@ Data Modeling & Relationships
 
 Interactive Visualizations (Charts, Tables, Maps, Cards)
 
-PowerBI Dashboard :
+PowerBI Dashboard :https://github.com/khandapuakhil-5/Amazon-sales-Analytics-Dashboard/blob/main/Amazon%20sales%20dashboard.pbix
 
 Dashboard Image Url:https://github.com/khandapuakhil-5/Amazon-sales-Analytics-Dashboard/blob/main/Amazon%20Dashboard.png
+
+Data set Url:
