@@ -38,4 +38,4 @@ PowerBI Dashboard :https://github.com/khandapuakhil-5/Amazon-sales-Analytics-Das
 
 Dashboard Image Url:https://github.com/khandapuakhil-5/Amazon-sales-Analytics-Dashboard/blob/main/Amazon%20Dashboard.png
 
-Data set Url:
+Data set Url:https://github.com/khandapuakhil-5/Amazon-sales-Analytics-Dashboard/blob/main/Amazon%202_Raw.xlsx
